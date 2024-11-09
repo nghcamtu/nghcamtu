@@ -27,6 +27,7 @@ Hello! I'm a frontend developer at the beginning of my journey in tech, committe
 * 🤝  I'm open to collaborating on interesting project
 * ⚡  I'm looking to connect with developers and teams who value mentorship and collaboration. I’m eager to contribute to open-source projects or join teams willing to work with an enthusiastic developer ready to learn and adapt.
 
+Let’s connect! I’m always open to new opportunities and collaborations in the front-end development space. Feel free to reach out—I’d love to chat and explore how we can work together.
 ### Skills
 
 
